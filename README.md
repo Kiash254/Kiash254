@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Kiash254/kiash254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiash254&theme=dark&date_format=%5BY%20%5DM%20j&ring=27DD3C)](https://git.io/streak-stats)
