@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiash254&theme=dark&date_format=%5BY%20%5DM%20j&ring=27DD3C)](https://git.io/streak-stats)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Nairobery Kenya</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
