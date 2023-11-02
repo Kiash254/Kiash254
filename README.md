@@ -1,3 +1,3 @@
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+![My Skills](https://skillicons.dev/icons?i=py,git,github,django,bootstrap,flask)
 
 
