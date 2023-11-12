@@ -1,3 +1,3 @@
-![My Skills](https://skillicons.dev/icons?i=py,github,django,flask,javascript,html,css,mysql,tensorflow,mongodb,twitter,pytorch,scikit-learn)
+![My Skills](https://skillicons.dev/icons?i=py,github,django,flask,javascript,html,css,mysql,tensorflow,mongodb,pytorch,tableau)
 
 
